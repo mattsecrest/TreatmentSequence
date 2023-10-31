@@ -1,4 +1,4 @@
-Package: TreatmentSequence
+Package: ggTreatmentSequence
 Title: Creates Treatment Pattern Summaries
 Version: 0.0.0.9000
 Authors@R: 
@@ -12,4 +12,4 @@ RoxygenNote: 7.2.3
 Suggests: 
     testthat (>= 3.0.0)
 Config/testthat/edition: 3
-URL: https://mattsecrest.github.io/TreatmentSequence/
+URL: https://mattsecrest.github.io/ggTreatmentSequence/
